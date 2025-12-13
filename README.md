@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **projects that empower, heal, or inspire**
 - 🤔 I’m looking for help with **scaling my platform and setting up backend magic**
 - 💬 Ask me about **Website development, design systems, and how to survive endless browser bugs**
-- 📫 Reach me via: [LinkedIn]((https://www.linkedin.com/in/karl-djansi-0935411b0/)) | [Email](mailto:anonydev274@gmail.com)
+- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/karl-djansi-0935411b0/) | [Email](mailto:anonydev274@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I write better code when music is playing in the background 🎧
 
