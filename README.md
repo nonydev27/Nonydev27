@@ -1,17 +1,27 @@
-👋 Hi there, I’m Djansi Karl 🤙 aka Nonydev👾
-
-
+# 👋 Hi there, I’m Djansi Karl 🤙 aka Nonydev👾
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on **a comprehensive Mental Health Support Platform**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **projects that empower, heal, or inspire**
-- 🤔 I’m looking for help with **scaling my platform and setting up backend magic**
-- 💬 Ask me about **Website development, design systems, and how to survive endless browser bugs**
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/karl-djansi-0935411b0/) | [Email](mailto:anonydev274@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I write better code when music is playing in the background 🎧
+I am a multidisciplinary **Web Developer** and **Data Analyst** dedicated to bridging the gap between functional design and actionable intelligence. As the **Founder of Nony Corp**, I lead teams in building AI-powered solutions like *ScanIt* and fostering inclusivity through initiatives like *WiTech*. 
+
+- 🔭 **Currently Building**: [ScanIt](https://github.com/nonydev27) (AI product authentication) and a **Comprehensive Mental Health Support Platform**.
+- 🌱 **Learning Focus**: Deepening my expertise in **React.js** and **Vite** to build ultra-fast, responsive user interfaces.
+- 👯 **Collaboration**: I’m looking to partner on **Open Source projects** that empower, heal, or inspire—specifically in the HealthTech and FinTech space.
+- 🤔 **Help Needed**: I'm looking for mentorship in **scaling cloud infrastructure** and mastering backend integration (Node.js/Spring Boot).
+- 💬 **Ask Me About**: React development, UI/UX design systems, PostgreSQL, and how to survive endless browser bugs.
+- 📫 **Connect**: [LinkedIn](https://www.linkedin.com/in/karl-djansi-0935411b0/) | [Email](mailto:anonydev274@gmail.com)
+- 😄 **Pronouns**: He/Him
+- ⚡ **Fun Fact**: I write better code when the music is loud and the caffeine is kicking in. 🎧☕
+
+---
+
+### 🏅 Ranking & Recognition
+[![committers.top badge](https://user-badge.committers.top/ghana_private/nonydev27.svg)](https://user-badge.committers.top/ghana_private/nonydev27)
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nonydev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karldjansi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nonydev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdjansi@st.knust.edu.gh)
 
 
 
