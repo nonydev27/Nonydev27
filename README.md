@@ -30,7 +30,7 @@ const karl = {
   location: "Ghana 🇬🇭",
   education: "BSc. Computer Science — KNUST",
   role: "Software Engineer & Product Builder",
-  company: "Founder @ Nony Corp",
+  company: "Smart Hive Labs",
 
   building: [
     "AI-powered products",
@@ -42,7 +42,8 @@ const karl = {
     "Artificial Intelligence",
     "Full-stack engineering",
     "Product design",
-    "Data & analytics"
+    "Data & analytics",
+    "Graphic Design"
   ],
 
   philosophy:
