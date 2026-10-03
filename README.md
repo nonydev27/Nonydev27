@@ -284,7 +284,7 @@ Passionate about helping other developers learn, experiment and build.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" />
 
-[![committers.top badge](https://user-badge.committers.top/ghana/USERNAME.svg)](https://user-badge.committers.top/ghana/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/ghana/nonydev27.svg)](https://user-badge.committers.top/ghana/nonydev27)
 
 ### 💜 Built from Ghana 🇬🇭 · Engineered for the world 🌍
 
