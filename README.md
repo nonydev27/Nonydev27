@@ -273,6 +273,112 @@ Passionate about helping other developers learn, experiment and build.
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2011%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 428.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,297 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 14 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                768 commits         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+🌆 Daytime                634 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+🌃 Evening                1031 commits        █████████░░░░░░░░░░░░░░░░   36.24 % 
+🌙 Night                  412 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Tuesday                  516 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Wednesday                255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Thursday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Friday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 715 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Accra
+
+💬 Programming Languages: 
+JavaScript               2 hrs 14 mins       █████████████████░░░░░░░░   69.55 % 
+CSS                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 47 mins       ██████████████████████░░░   86.57 % 
+VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+
+🐱‍💻 Projects: 
+akademia                 1 hr 28 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
+ghana-events-app         1 hr 25 mins        ███████████░░░░░░░░░░░░░░   44.42 % 
+LockIn                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+myworks                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 54 mins (90.24%)
+
+✍️ 1,796 lines written by AI, 13 lines written by hand (99.28% AI-written)
+
+🔤 1,040,405 Input Tokens, 256,025 Output Tokens
+
+💵 $19.10 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 40 AI Prompts
+
+Opus                     1,935 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.28% of written lines came from AI
+📝 Concise Prompter — average 299 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               36 repos            ████████████░░░░░░░░░░░░░   46.75 % 
+TypeScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/nonydev27/nonydev27/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/10/2026 05:42:14 UTC
 <!--END_SECTION:waka-->
 </div>
 
