@@ -272,7 +272,6 @@ Passionate about helping other developers learn, experiment and build.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </div>
