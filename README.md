@@ -10,7 +10,7 @@
 
 <a href="https://github.com/nonydev27"><img src="https://img.shields.io/github/followers/nonydev27?label=followers&style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=A78BFA" /></a>
 <a href="https://linkedin.com/in/karldjansi"><img src="https://img.shields.io/badge/linkedin-karldjansi-0D1117?style=flat-square&logo=linkedin&logoColor=A78BFA&labelColor=0D1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=nonydev27&label=views&style=flat-square&color=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=nonydev27&label=views&color=8A2BE2&style=flat-square&abbreviated=true" alt="profile views" />
 
 </div>
 
