@@ -97,13 +97,21 @@ const nonydev = {
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nonydev27&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9" />
-<img height="165" src="https://streak-stats.demolab.com?user=nonydev27&hide_border=true&border_radius=10&background=0D1117&ring=8A2BE2&fire=A78BFA&currStrNum=F5F3FF&sideNums=F5F3FF&currStrLabel=A78BFA&sideLabels=C9D1D9&dates=6E7681&stroke=21262D" />
+<img height="165" src="https://streak-stats.demolab.com?user=nonydev27&hide_border=true&border_radius=10&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakNum=F5F3FF&currStreakLabel=A78BFA&sideNums=F5F3FF&sideLabels=C9D1D9&dates=6E7681&stroke=21262D" />
+
+<br/><br/>
 
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonydev27&layout=compact&langs_count=8&hide_border=true&border_radius=10&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nonydev27&bg_color=0D1117&color=C9D1D9&line=8A2BE2&point=A78BFA&area=true&area_color=8A2BE2&hide_border=true&radius=10" />
+<br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/nonydev27/nonydev27/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nonydev27/nonydev27/output/snake-violet.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nonydev27/nonydev27/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/nonydev27/nonydev27/output/snake-violet.svg" />
+</picture>
+
+<br/><br/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2011%20mins-blue?style=flat)
