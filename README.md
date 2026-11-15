@@ -4,6 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,55:2E1065,100:8A2BE2&text=Karl%20Djansi&fontColor=F5F3FF&fontSize=52&fontAlignY=36&desc=nonydev%20%C2%B7%20software%20engineer%20%C2%B7%20product%20builder&descSize=16&descAlignY=56&animation=fadeIn" width="100%" />
 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=building+intelligent+products.;turning+ideas+into+systems.;founder+%40+nony+corp.;shipping+from+ghana+%F0%9F%87%AC%F0%9F%87%AD" />
 
 <br/>
