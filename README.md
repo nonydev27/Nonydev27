@@ -9,6 +9,7 @@
 
 <br/>
 
+
 <a href="https://github.com/nonydev27"><img src="https://img.shields.io/github/followers/nonydev27?label=followers&style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=A78BFA" /></a>
 <a href="https://karldjansi.vercel.app"><img src="https://img.shields.io/badge/website-karldjansi.vercel.app-0D1117?style=flat-square&logo=googlechrome&logoColor=A78BFA&labelColor=0D1117" alt="Karl Djansi website" /></a>
 <a href="https://linkedin.com/in/karldjansi"><img src="https://img.shields.io/badge/linkedin-karldjansi-0D1117?style=flat-square&logo=linkedin&logoColor=A78BFA&labelColor=0D1117" /></a>
